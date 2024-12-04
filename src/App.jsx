@@ -1,17 +1,19 @@
-import { useState } from 'react'
- 
-import './App.css'
-import NavBar from './Components/Nav-Bar/NavBar'
-
+import React from "react";
+import NavBar from "./Components/Nav-Bar/NavBar";
+ import Services from "./Components/Services/Services";
+ import Categories from "./Components/Categories/Categorie"
+ import Contact from "./Components/Contact-Us/Contact"
+import Home from "./Components/Home/Home";
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-     <NavBar/>
-  
-    </>
-  )
+    <div>
+    <Home/>
+ <NavBar/>
+ <Categories/>
+ <Services/>
+ <Contact/>
+    </div>
+  );
 }
 
-export default App
+export default App;

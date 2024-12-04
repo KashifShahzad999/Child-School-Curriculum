@@ -1,28 +1,39 @@
-import React from 'react'
-import "../../style.css"
+import React from "react";
+// import { Link } from "react-router-dom";
+import "../../style.css";
 
 function NavBar() {
   return (
-    <nav class="navbar">
-        <div class="navbar-container">
-            <input type="checkbox" name="" id=""/>
-            <div class="hamburger-lines">
-                <span class="line line1"></span>
-                <span class="line line2"></span>
-                <span class="line line3"></span>
-            </div>
-            <ul class="menu-items">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Category</a></li>
-                <li><a href="#">Menu</a></li>
-                <li><a href="#">Testimonial</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-            <h1 class="logo">Navbar</h1>
+    <nav className="navbar">
+      <div className="navbar-container">
+        <input type="checkbox" name="" id="" />
+        <div className="hamburger-lines">
+          <span className="line line1"></span>
+          <span className="line line2"></span>
+          <span className="line line3"></span>
         </div>
+         <ul className="menu-items">
+          <li>
+         <a href="">HOME</a>
+          </li>
+          <li>
+            <a href="">Services</a>
+          </li>
+          <li>
+            <a href="">Categories</a>
+          </li>
+ 
+          <li>
+            <a href="">Contact</a>
+          </li>
+        </ul> 
+        <h6 className="logo">
+          DARB AL SHAHEEN <br />
+          TECHNICAL <br />S E R V I C E S E S T.
+        </h6>
+      </div>
     </nav>
-  )
+  );
 }
 
-export default NavBar
+export default NavBar;
