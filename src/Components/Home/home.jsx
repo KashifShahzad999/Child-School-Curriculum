@@ -10,7 +10,7 @@ function Home() {
         <div className="container elementor-container elementor-column-gap-default">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <span>Great Technology</span>
+              <span className="heading-title">Great Technology</span>
               <h5 className="elementor-heading-title elementor-size-default ">
                 Best Technical Services
               </h5>

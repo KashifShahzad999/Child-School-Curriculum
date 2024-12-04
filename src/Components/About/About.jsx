@@ -4,7 +4,7 @@ function About() {
   return (
     <section className="home-section" id="home">
       <div className="about-wrapper">
-        <div className="container">
+        <div className="container ">
           <div className="col-lg-6">
             Al Shaheen grown in Dubai with vast experience and 25 employees, we
             are one of the most advanced company locally in the design and

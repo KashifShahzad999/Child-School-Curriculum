@@ -8,7 +8,7 @@ function categorie() {
         <div className="row align-items-center">
  
   <div className="col-lg-6 col-md-6 col-sm-12 content">
-    <h1 className="main-heading">Aluminium Window</h1>
+    <h1 className="main-heading elementor-heading-title">Aluminium Window</h1>
     <p className="home-about">
       Aluminum windows are a popular choice for modern and contemporary building designs due to their durability, <br />
       low maintenance, and sleek appearance. <br />
@@ -35,7 +35,7 @@ function categorie() {
 
             </div>
             <div className="col-la-8 content">
-              <h1 className="main-heading">Glass Doors</h1>
+              <h1 className="main-heading elementor-heading-title">Glass Doors</h1>
               <p>
                 Aluminum windows are a popular choice for modern and
                 contemporary building designs due to their durability, low
@@ -57,7 +57,7 @@ function categorie() {
 
           <div className="row align-items-center">
             <div className="col-la-8 content">
-              <h1 className="main-heading">Frameless Glass Doors</h1>
+              <h1 className="main-heading elementor-heading-title">Frameless Glass Doors</h1>
               <p>
                 Frameless glass doors are modern, sleek, and elegant
                 architectural elements that provide unobstructed views and a
@@ -103,7 +103,7 @@ function categorie() {
 
             </div>
             <div className="col-la-8 content">
-              <h1 className="main-heading">Glass Partition Works</h1>
+              <h1 className="main-heading elementor-heading-title">Glass Partition Works</h1>
               <p>
                 Glass partitions are a popular choice for creating separate
                 spaces within an open floor plan while maintaining a sense of
@@ -133,7 +133,7 @@ function categorie() {
 
           <div className="row align-items-center">
             <div className="col-la-8 content">
-              <h1 className="main-heading">Curtain Wall Aluminium Works</h1>
+              <h1 className="main-heading elementor-heading-title">Curtain Wall Aluminium Works</h1>
               <p>
                 Curtain wall aluminum works refer to the installation of
                 exterior building walls that are designed to support their own
@@ -170,7 +170,7 @@ function categorie() {
 
             </div>
             <div className="col-la-8 content">
-              <h1 className="main-heading">Aluminum Shower Enclosure Works</h1>
+              <h1 className="main-heading elementor-heading-title">Aluminum Shower Enclosure Works</h1>
               <p>
                 Aluminum is a popular material for shower enclosures due to its
                 lightweight, corrosion-resistant, and durable properties. When
@@ -204,7 +204,7 @@ function categorie() {
 
           <div className="row align-items-center">
             <div className="col-la-8 content">
-              <h1 className="main-heading">Aluminum Wood Pergola</h1>
+              <h1 className="main-heading elementor-heading-title">Aluminum Wood Pergola</h1>
               <p>
                 An Aluminum Wood Pergola typically refers to a structure that
                 combines aluminum and wood elements in its construction. The
@@ -237,7 +237,7 @@ function categorie() {
 
             </div>
             <div className="col-la-8 content">
-              <h1 className="main-heading">
+              <h1 className="main-heading elementor-heading-title">
                 Aluminum Composite Panel Cladding
               </h1>
               <p>
@@ -278,7 +278,7 @@ function categorie() {
 
           <div className="row align-items-center">
             <div className="col-la-8 content">
-              <h1 className="main-heading">Stainless Steel </h1>
+              <h1 className="main-heading elementor-heading-title">Stainless Steel </h1>
               <p>
                 Stainless steel is a popular choice for ramp railings, staircase
                 handrails, grating, and bollards due to its durability,
@@ -318,7 +318,7 @@ function categorie() {
               <img src="/assets/img/Steel-wall-partition2.jpg" alt="Electroplating partition" />
             </div>
             <div className="col-la-8 content">
-  <h1 className="main-heading">
+  <h1 className="main-heading elementor-heading-title">
     Electroplating Stainless Steel Wall Partition
   </h1>
   <p>

@@ -140,6 +140,14 @@ body {
   }
 }
 
+.heading-title{
+  color: red;
+  font-family: "Montserrat", montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
 
 .elementor-heading-title {
   color: #06379A;
@@ -183,6 +191,16 @@ body {
 .input-container button:hover {
   background-color: #003b92;
   transition: 0.3s;
+}
+
+.sec-kit{
+  background-color: #EFEFEF;
+}
+
+.sec-gap{
+  gap: 20% !important;
+  margin-top: 5% !important;
+  margin-bottom: 5% !important;
 }
 
 @media (max-width: 768px) {
