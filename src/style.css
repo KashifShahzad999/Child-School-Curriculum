@@ -2,6 +2,9 @@
   padding: 0;
   margin: 0;
 }
+html, body {
+  overflow-x: hidden;
+}
 
 body {
   padding-top: 100px;
@@ -77,7 +80,7 @@ body {
 .row.align-items-center {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .home-ks-img img {
@@ -95,10 +98,9 @@ body {
   /* Adds some spacing between the image and text */
 }
 .work-images{
-  width: auto !important;
-  height: auto !important;
-  /* padding-left: 0%; */
-  /* margin-right: 30px; */
+  width: 100%;
+  /* max-width: 350px; */
+  margin: auto;
 }
 
 .content {
@@ -110,14 +112,14 @@ body {
   font-family: 'Arial', sans-serif; /* Clean and readable font */
 }
 
-.main-heading {
-  font-size: 2rem; /* Large font size for heading */
-  color: #333; /* Dark color for text */
-  margin-bottom: 15px; /* Space between heading and paragraph */
-  line-height: 1.4; /* Better readability */
-  text-transform: capitalize; /* Capitalize heading */
-  text-align: left; /* Align text to the left */
-}
+/* .main-heading {
+  font-size: 2rem;  
+  color: #333; 
+  margin-bottom: 15px;  
+  line-height: 1.4;  
+  text-transform: capitalize;  
+  text-align: left;  
+} */
 
 .content p {
   font-size: 1rem; /* Standard font size for body text */
@@ -141,10 +143,10 @@ body {
 }
 
 .heading-title{
-  color: red;
+  /* color: red; */
   font-family: "Montserrat", montserrat;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
 }
 
@@ -159,6 +161,8 @@ body {
   padding: 0;
   margin: 0;
   line-height: 1;
+  margin-top: 0;
+  margin-bottom: 0;
 } 
  
 .input-container {
@@ -202,6 +206,118 @@ body {
   margin-top: 5% !important;
   margin-bottom: 5% !important;
 }
+
+
+.key-features-section {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #002a80;
+  margin-bottom: 30px;
+}
+
+.feature-item {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.feature-icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.feature-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #002a80;
+  margin-bottom: 10px;
+}
+
+.feature-description {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* .worker-image {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+} */
+
+/* Banner Section */
+.about-banner {
+  background-color: #002a80;
+  color: #ff5722;
+  padding: 50px 0;
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+/* About Us Section */
+.about-section {
+  padding: 50px 0;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #002a80;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.8;
+}
+.categories-section p{
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.8;
+}
+.about-section .highlight {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.about-image {
+  width: 100%;
+  /* max-width: 350px; */
+  margin: auto;
+}
+
+/* Our Vision Section */
+.vision-section {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+
+.vision-section h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #002a80;
+  margin-bottom: 20px;
+}
+
+.vision-section p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.8;
+}
+
+.vision-image {
+  width: 90%;
+  /* max-width: 350px; */
+  margin: auto;
+  border-radius: 25px 25px 25px 25px;
+}
+
 
 @media (max-width: 768px) {
   .navbar {

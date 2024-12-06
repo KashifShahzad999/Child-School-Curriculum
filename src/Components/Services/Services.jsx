@@ -64,7 +64,79 @@ const Services = () => {
         </div>
       </section>
 
-      <section>
+      <section className="key-features-section">
+        <div className="container text-center">
+          <h1 className="section-title">
+            Key Features of Dedicated Technical Services Dubai
+          </h1>
+          <div className="row align-items-center mt-5">
+            {/* Left Column */}
+            <div className="col-md-6 col-lg-3 feature-item">
+              <img
+                src="/assets/img/Like-img2.jpg"
+                alt="Quality Material"
+                className="feature-icon"
+              />
+              <h3 className="feature-title">Quality Material</h3>
+              <p className="feature-description">
+                We use only the highest quality materials in all of our services
+                and management to achieve optimal results and customer
+                satisfaction.
+              </p>
+            </div>
+            <div className="col-md-6 col-lg-3 feature-item">
+              <img
+                src="/assets/img/Like-img2.jpg"
+                alt="Expert Team"
+                className="feature-icon"
+              />
+              <h3 className="feature-title">Expert Team</h3>
+              <p className="feature-description">
+                We have an experienced team, from base to field, that adds grace
+                and beauty to the work.
+              </p>
+            </div>
+
+            {/* Center Image */}
+            <div className="col-md-12 col-lg-6">
+              <img
+                src="/assets/img/services-img.jpg"
+                alt="Worker"
+                className="worker-image"
+              />
+            </div>
+
+            {/* Right Column */}
+            <div className="col-md-6 col-lg-3 feature-item">
+              <img
+                src="/assets/img/Like-img2.jpg"
+                alt="Reasonable Cost"
+                className="feature-icon"
+              />
+              <h3 className="feature-title">Reasonable Cost</h3>
+              <p className="feature-description">
+                We offer ways to reduce costs and energy consumption while
+                maintaining reasonable prices for technical services to our
+                clients in Dubai.
+              </p>
+            </div>
+
+            <div className="col-md-6 col-lg-3 feature-item">
+              <img
+                src="/assets/img/Like-img2.jpg"
+                alt="Secure & Safe"
+                className="feature-icon"
+              />
+              <h3 className="feature-title">Secure & Safe</h3>
+              <p className="feature-description">
+                We provide work and quality that is being delivered through safe
+                and competent hands.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* <section>
         <div className="container">
           <div className="elementor-column">
             <div className="elementskit-infobox text-left">
@@ -99,7 +171,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 };
