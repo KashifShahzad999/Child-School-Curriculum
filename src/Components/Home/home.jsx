@@ -15,12 +15,12 @@ function Home() {
                 Best Technical Services
               </h5>
               <p>
-                As a proficient company operating in Dubai, Dedicated Technical
+                As a proficient company operating in Dubai, AL Shaheen Technical
                 Services always strives to meet the demands of its clients with
                 skill and capability.
               </p>
             </div>
-            <div className="">
+            <div className="home-img">
               <img src="/assets/img/technical-services.webp" alt="" />
             </div>
           </div>

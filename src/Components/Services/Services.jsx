@@ -18,25 +18,62 @@ const Services = () => {
 
   return (
     <>
-      <section className="">
+      <section className="sec-kit">
         <div className="service-wrapper ">
-          <div className="container sec-kit">
+          <div className="container ">
             <div className="row sec-kit">
               <div className="col-lg-8 elementor-widget-container">
-                <h1 className="main-heading elementor-heading-title">
-                  Dedicated Technical Services Dubai
+                <h1 className=" Home-heading">
+                  Al Shaheen Technical Services Dubai
                 </h1>
                 <div className="elementor-widget-container">
                   <p>
-                    At Dedicated Technical Services Dubai, we aim at delivering
-                    the best and most distinct services to the clients in Dubai.
-                    Our achievements are based on the performance and proficient
-                    services that are in accordance with the needs of our
-                    customers. Our management team has extensive experience in
-                    the field of technical services. We have a wide range of
-                    services that are being provided to our highly satisfied
-                    clients in Dubai. Dedicated Technical Services' sole purpose
-                    is to provide excellence and quality services in this field.
+                    At{" "}
+                    <span className="highlight">
+                      {" "}
+                      Al Shaheen Technical Services Dubai,
+                    </span>{" "}
+                    we aim at delivering the best and most distinct services to
+                    the clients in Dubai. Our achievements are based on the
+                    performance and proficient services that are in accordance
+                    with the needs of our customers. Our management team has
+                    extensive experience in the field of technical services. We
+                    have a wide range of services that are being provided to our
+                    highly satisfied clients in Dubai. Dedicated Technical
+                    Services' sole purpose is to provide excellence and quality
+                    services in this field.
+                    <p>
+                      {" "}
+                      Al Shaheen grown in Dubai with vast experience and 25
+                      employees, we // are one of the most advanced company
+                      locally in the design and // production of architectural
+                      aluminium system and glass. The company // has developed
+                      its own system and successfully used on many landmark //
+                      projects. Al Shaheen works with all well known certified
+                      supplier. // We provide the profile mentioned (GULF
+                      EXTRUSION) (ALUMIL) (GUTMAN) // (SCHUCO) Al shaheen
+                      management recognizes the importance of // excellent
+                      communication. Each and every staff have a clear and //
+                      precise information about our steady growth and
+                      profitability in the // market, which is an impact of
+                      unblemished services rendered by our // staff and work
+                      force. It makes me proud to see that each staff carry //
+                      out their duties always keeping the customers first in
+                      mind with a // high sense of morality and responsibility
+                      as members of "Al // Shaheen". Our management approach is
+                      achieving goals and targets // through our special mix of
+                      skills, dedication, planning, expertise // and team
+                      efforts, perfected by experience. Our clients advocate
+                      this // as well. Innovation and flexibility go hand in
+                      hand. We believe in // providing high level of customer
+                      satisfaction, quality without // compromising. Existence
+                      of "Al Shaheen" is only because of support // from our
+                      valued customers. We always welcome customer suggestions
+                      // and proposals for our continuous development and
+                      fruitful customer // relationship. Please contact me on
+                      email: // info.alshaheen5522@gmail.com with your valuable
+                      suggestions
+                    </p>
                   </p>
                 </div>
                 {/* <section className="sec-gap"></section> */}
@@ -50,11 +87,9 @@ const Services = () => {
         </div>
       </section>
 
-      <section className="">
-        <div className=" container sec-kit">
-          <h2 className="elementor-heading-title">
-            Key Features of Dedicated Technical Services Dubai
-          </h2>
+      <section className="sec-kit">
+        <div className=" container ">
+          <h2 className="Home-heading">Al Shaheen Technical Services Dubai</h2>
 
           <ul>
             {services.map((service, index) => (
@@ -66,8 +101,8 @@ const Services = () => {
 
       <section className="key-features-section">
         <div className="container text-center">
-          <h1 className="section-title">
-            Key Features of Dedicated Technical Services Dubai
+          <h1 className="Home-heading">
+            Key Features of Al Shaheen Technical Services Dubai
           </h1>
           <div className="row align-items-center mt-5">
             {/* Left Column */}

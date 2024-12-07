@@ -39,7 +39,6 @@ import React from "react";
 
 // export default About;
 
-
 // import "./AboutUs.css"; // Custom CSS file for styling
 
 const AboutUs = () => {
@@ -57,21 +56,30 @@ const AboutUs = () => {
             <div className="col-md-6  ">
               <h2>About Us</h2>
               <p>
-                <span className="highlight">Al Shaheen Technical Services</span> is among the most competent and
-                thriving technical services providers in Dubai. The strength of our competency and sustainability lies
-                within our management team, which has years of experience in the respective field. Once handing over
-                work to us, our clients can rest assured that the work will be carried out accurately and efficiently,
-                as we are highly respected for our technical excellence and professional reliability in Dubai.
+                <span className="highlight">AL Shaheen Technical Services</span>{" "}
+                is among the most competent and thriving technical services
+                providers in Dubai. The strength of our competency and
+                sustainability lies within our management team, which has years
+                of experience in the respective field. Once handing over work to
+                us, our clients can rest assured that the work will be carried
+                out accurately and efficiently, as we are highly respected for
+                our technical excellence and professional reliability in Dubai.
               </p>
               <p>
-                Our aim is to provide the best customer service to our customers in Dubai. Dedicated Technical Services
-                core values are commitment to all aspects of the business, customer satisfaction, and reliability. Our
-                skilled team is committed to providing the best results for our clients. Client satisfaction with our
-                finest work is of our core importance.
+                Our aim is to provide the best customer service to our customers
+                in Dubai. Dedicated Technical Services core values are
+                commitment to all aspects of the business, customer
+                satisfaction, and reliability. Our skilled team is committed to
+                providing the best results for our clients. Client satisfaction
+                with our finest work is of our core importance.
               </p>
             </div>
             <div className="col-md-6 text-center">
-              <img src="/assets/img/About-Us.webp" alt="Worker" className="about-image" />
+              <img
+                src="/assets/img/About-Us.webp"
+                alt="Worker"
+                className="about-image"
+              />
             </div>
           </div>
         </div>
@@ -82,14 +90,20 @@ const AboutUs = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6 text-center">
-              <img src="/assets/img/Our-Vision-1.webp" alt="Tools" className="vision-image" />
+              <img
+                src="/assets/img/Our-Vision-1.webp"
+                alt="Tools"
+                className="vision-image"
+              />
             </div>
             <div className="col-md-6">
               <h2>Our Vision</h2>
               <p>
-                Dedicated Technical Services' objective is to provide fast and reliable services to the customers in
-                Dubai who are seeking technical services. Providing our finest services, we make your ideas come true.
-                Our priority is to ensure your comfortability and assurance and above all, your satisfaction with our
+                AL Shaheen Technical Services' objective is to provide fast and
+                reliable services to the customers in Dubai who are seeking
+                technical services. Providing our finest services, we make your
+                ideas come true. Our priority is to ensure your comfortability
+                and assurance and above all, your satisfaction with our
                 services.
               </p>
             </div>
