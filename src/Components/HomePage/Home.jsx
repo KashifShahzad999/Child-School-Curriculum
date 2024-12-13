@@ -3,35 +3,45 @@ import React from "react";
 function Home() {
   function requestCallback() {
     const phoneNumber = document.getElementById("phoneInput").value;
+    console.log("Phone Number:", phoneNumber);
   }
+
   return (
-    <section>
-      <div className="home-wrapper">
-        <div className="container elementor-container elementor-column-gap-default">
-          <div className="row align-items-center">
-            <div className="col-lg-6">
-              <span className="heading-title">Great Technology</span>
-              <h5 className="elementor-heading-title elementor-size-default ">
-                Best Technical Services
-              </h5>
-              <p>
-                As a proficient company operating in Dubai, AL Shaheen Technical
-                Services always strives to meet the demands of its clients with
-                skill and capability.
-              </p>
-            </div>
-            <div className="home-img">
-              <img src="/assets/img/technical-services.webp" alt="" />
-            </div>
+    <section className="py-5">
+      <div className="container home-wrapper">
+        <div className="row align-items-center">
+          {/* Left Column */}
+          <div className="col-lg-6 mb-lg-0">
+            <span className="text-uppercase text-danger fw-bold">
+              Great Technology
+            </span>
+            <h1 className="display-5 fw-bold text-primary">Best Technical Services</h1>
+            <p className="text-muted">
+              As a proficient company operating in Dubai, AL Shaheen Technical
+              Services always strives to meet the demands of its clients with
+              skill and capability.
+            </p>
           </div>
-          <div class="input-container">
-            <input
-              type="text"
-              id="phoneInput"
-              placeholder="Input Your Number"
+          {/* Right Column */}
+          <div className="col-lg-6 text-center">
+            <img
+              src="/assets/img/technical-services.webp"
+              alt="Technical Services"
+              className="img-fluid"
             />
-            <button onClick={requestCallback}>REQUEST CALL BACK</button>
           </div>
+        </div>
+        {/* Callback Section */}
+        <div className="mt-4 text-center">
+          <input
+            type="text"
+            id="phoneInput"
+            placeholder="Input Your Number"
+            className="form-control w-50 mx-auto mb-2"
+          />
+          <button className="btn btn-primary" onClick={requestCallback}>
+            REQUEST CALL BACK
+          </button>
         </div>
       </div>
     </section>
