@@ -1,0 +1,185 @@
+/* HeartReferences.css
+   Keep this file next to the component and import it as shown.
+   Uses Poppins-like friendly look. Tweak colors to match your theme.
+*/
+
+:root{
+  --bg:#fffaf6;
+  --accent:#ff6b88;
+  --muted:#6b6b6b;
+  --card:#ffffff;
+  --glass: rgba(255,255,255,0.6);
+  --shadow: 0 6px 18px rgba(20,20,30,0.08);
+  --radius: 14px;
+  --maxw:1100px;
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.heartref-page{
+  background: linear-gradient(180deg, var(--bg), #fff);
+  color: #222;
+  padding: 28px 18px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Hero */
+.hero{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  padding:28px 12px;
+  margin-bottom:18px;
+}
+.hero-inner{
+  max-width: var(--maxw);
+  width:100%;
+  text-align:center;
+  background: linear-gradient(90deg, rgba(255,255,255,0.6), rgba(255,255,255,0.2));
+  border-radius: 16px;
+  padding:28px;
+  box-shadow: var(--shadow);
+  position:relative;
+  overflow:visible;
+}
+.hero-heart{
+  position:absolute;
+  right:22px;
+  top:-26px;
+  width:84px;
+  height:84px;
+  transform: rotate(-18deg);
+  background: radial-gradient(circle at 30% 30%, #fff7, transparent 40%), linear-gradient(135deg, #ffd3dd, var(--accent));
+  clip-path: path("M10 30 C 10 10, 30 10, 30 30 A 10 10, 0, 0, 1, 50 30 C 50 10, 70 10, 70 30 C 70 50, 40 72, 40 86 C 40 72, 10 50, 10 30 Z");
+  border-radius: 20px;
+  filter: drop-shadow(0 4px 10px rgba(255,107,136,0.22));
+  pointer-events:none;
+}
+
+/* fallback nicer heart using pseudo (for cross-browser) */
+.hero-heart{
+  border-radius: 50%;
+  transform: rotate(45deg) scale(1);
+  background: linear-gradient(135deg,#ffd7df, #ff6b88);
+  width:72px;height:72px;
+  top:-36px; right:28px;
+  clip-path: polygon(50% 15%, 61% 6%, 75% 12%, 84% 24%, 84% 38%, 70% 55%, 50% 80%, 30% 55%, 16% 38%, 16% 24%, 25% 12%, 39% 6%);
+}
+
+/* Titles */
+.hero-title{
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: -0.5px;
+  color: #2b2b2b;
+}
+.hero-sub{
+  margin-top:8px;
+  color:var(--muted);
+  font-size:15px;
+}
+
+/* Content wrap */
+.content-wrap{
+  max-width: var(--maxw);
+  width:100%;
+  display:grid;
+  grid-template-columns: 1fr 320px;
+  gap: 20px;
+  align-items:start;
+  margin-top:18px;
+}
+
+/* grid of cards */
+.ref-grid{
+  display:grid;
+  grid-template-columns: 1fr;
+  gap:14px;
+}
+
+/* card */
+.ref-card{
+  display:flex;
+  gap:14px;
+  background: var(--card);
+  padding:14px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  align-items:flex-start;
+}
+.ref-card-left{
+  min-width:56px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.small-heart{
+  width:44px;height:44px;border-radius:8px;
+  background: linear-gradient(135deg,#ffd7df,#ff6b88);
+  box-shadow: 0 6px 18px rgba(255,107,136,0.14);
+  transform: rotate(25deg);
+}
+.ref-card-body{
+  flex:1;
+}
+.ref-title{
+  margin:2px 0 6px;
+  font-size:16px;
+  color:#111;
+}
+.ref-author{
+  margin:0;
+  font-size:13px;
+  color:var(--muted);
+}
+.ref-note{
+  margin:8px 0;
+  color:#444;
+}
+.ref-link{
+  color: var(--accent);
+  text-decoration: none;
+  font-weight:600;
+  font-size:14px;
+}
+
+/* side box */
+.side-box{
+  background: linear-gradient(180deg, #fff, rgba(255,255,255,0.95));
+  padding:14px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  position:sticky;
+  top:20px;
+}
+.side-box h2{ margin-top:0; }
+.side-box p{ color:var(--muted); line-height:1.45; }
+.thanks{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  margin-top:14px;
+}
+.thanks-heart{
+  width:28px;height:28px;border-radius:6px;
+  background:linear-gradient(135deg,#ffd7df,#ff6b88);
+  transform:rotate(25deg);
+}
+
+/* footer */
+.hr-footer{
+  margin-top:30px;
+  text-align:center;
+  color:var(--muted);
+  font-size:14px;
+}
+
+/* responsive */
+@media (max-width:980px){
+  .content-wrap{
+    grid-template-columns: 1fr;
+  }
+  .hero-heart{ display:none; }
+  .side-box{ position:relative; }
+}
