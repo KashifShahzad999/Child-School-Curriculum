@@ -10,6 +10,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Art from "./Components/Art/Art";
 import Drama from "./Components/Drama/Drama";
 import Music from "./Components/Movement & Music/Music";
+import Language from "./Components/Language and Literacy/Language";
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
  <Art/>
  <Drama/>
  <Music/>
+ <Language/>
     </>
   );
 }

@@ -161,12 +161,70 @@ export default function Music() {
           <h2>3–5 Years</h2>
           <p>
             • Description: Children dance to different types of music and freeze
-            in a pose that matches a given emotion (e.g., “happy,” “angry”). <br /> •
-            Creativity Fostered: Builds emotional intelligence and expressive
-            movement vocabulary. <br /> • Theory Link: Brain-based learning shows
-            improved emotional regulation through music (Harper, 2024).
+            in a pose that matches a given emotion (e.g., “happy,” “angry”).{" "}
+            <br /> • Creativity Fostered: Builds emotional intelligence and
+            expressive movement vocabulary. <br /> • Theory Link: Brain-based
+            learning shows improved emotional regulation through music (Harper,
+            2024).
           </p>
           <button className="cta-btn">Learn More</button>
+        </div>
+      </section>
+
+      <section className="two-column">
+        <div className="content">
+          <h1>2.Rhythm Story Drumming</h1>
+          <p>
+            • Description: Children use drums to mimic the action in a
+            teacher-led story (e.g., galloping horse, gentle rain). <br /> •
+            Creativity Fostered: Enhances auditory discrimination and
+            imaginative interpretation. <br /> • Theory Link: Narrative
+            integration supports multimodal learning pathways (Reddy, Hunjan &
+            Jha, 2021).
+          </p>
+          <button className="cta-btn">Learn More</button>
+        </div>
+
+        <div className="image">
+          <img src="/assets/img/music9.jpeg" alt="Children Playing Music" />
+        </div>
+      </section>
+
+      <section className="two-column">
+        <div className="image">
+          <img src="/assets/img/music10.jpeg" alt="Children Playing Music" />
+        </div>
+        <div className="content">
+          <h1>1. Digital Music Mixing Studio</h1>
+          <h2>6–8 Years</h2>
+          <p>
+            • Description: Children use apps like GarageBand or Chrome Music Lab
+            to layer beats, create patterns, and perform. <br /> • Creativity
+            Fostered: Promotes technological fluency, pattern creation, and
+            sound experimentation. <br /> • Theory Link: Fuses musical
+            intelligence with digital competence (Gardner, 1983; Davis Jr,
+            2023).
+          </p>
+          <button className="cta-btn">Learn More</button>
+        </div>
+      </section>
+
+      <section className="two-column">
+        <div className="content">
+          <h1>2.Choreograph Your Own Dance</h1>
+          <p>
+            • Description: Children collaboratively choreograph short dances to
+            selected songs, perform for peers, and reflect. <br /> • Creativity
+            Fostered: Encourages leadership, sequencing, and expressive
+            storytelling through movement. <br /> • Theory Link: Encourages “flow”
+            states and cooperative creativity (Csikszentmihalyi, 1997; Harper,
+            2024).
+          </p>
+          <button className="cta-btn">Learn More</button>
+        </div>
+
+        <div className="image">
+          <img src="/assets/img/music11.jpeg" alt="Children Playing Music" />
         </div>
       </section>
     </div>
