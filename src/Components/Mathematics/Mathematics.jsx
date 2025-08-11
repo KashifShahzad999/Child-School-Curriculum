@@ -231,6 +231,25 @@ export default function Mathematics() {
     Your browser does not support the video tag.
   </video>
 </section>
+
+
+<div style={{
+  position: 'fixed',
+  bottom: '10px',
+  right: '10px',
+  textAlign: 'right',
+  fontWeight: 'bold',
+  backgroundColor: 'rgba(255,255,255,0.7)', // optional translucent background
+  padding: '6px 10px',
+  borderRadius: '5px',
+  boxShadow: '0 0 5px rgba(0,0,0,0.2)',
+  fontFamily: "'Poppins', sans-serif",
+  zIndex: 1000
+}}>
+  <div>Feezan Mukhtar</div>
+  <div>IKO3006707</div>
+</div>
+
     </div>
   );
 }
