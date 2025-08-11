@@ -36,7 +36,7 @@ export default function Humanities() {
       <section className="two-column">
         <div className="image">
           <img
-            src="/assets/img/hass2.jpeg"
+            src="/assets/img/music5.jpeg"
             alt="Kids learning through stories"
           />
         </div>

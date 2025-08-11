@@ -35,7 +35,7 @@ export default function Engineering() {
       {/* Section 2 */}
       <section className="two-column">
         <div className="image">
-          <img src="/assets/img/eng2.jpeg" alt="Early engineering design" />
+          <img src="/assets/img/lngg2.jpeg" alt="Early engineering design" />
         </div>
         <div className="content">
           <h1>Theoretical Foundations</h1>
