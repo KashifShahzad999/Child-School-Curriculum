@@ -127,34 +127,54 @@ export default function Language() {
 
       <section className="two-column">
         <div className="content">
-          <h1>Interactive Storytelling</h1>
+          <h1>1. Felt Story Retell</h1>
+          <h6>2–3 Years</h6>
           <p>
-            • Description: Children participate in group storytelling by adding
-            their own lines or acting out scenes. <br />
-            • Creativity Fostered: Builds imagination, sequencing skills, and
-            collaboration. <br /> • Theory Link: Enhances narrative skills and
-            comprehension through active engagement.
+            • Description: Children use felt characters to retell known stories
+            (e.g., “The Very Hungry Caterpillar”). <br /> • Creativity Fostered:
+            Promotes sequencing, character identification, and imaginative
+            variation. <br /> • Theory Link: Enhances heuristic and
+            representational functions of language (Halliday, 1975).
+          </p>
+          <h5>Name Play with Rhymes</h5>
+          <p>
+            • Description: Children engage in rhyming chants with their names
+            (e.g., “Sam, jam, ham!”). <br />
+            • Creativity Fostered: Encourages phonemic awareness and playful
+            language use. <br />• Theory Link: ZPD interaction builds early
+            literacy through guided sound play (Vygotsky, 1978).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
 
         <div className="image">
-          <img src="/assets/img/language5.jpeg" alt="Group Storytelling" />
+          <img src="/assets/img/lngg5.jpeg" alt="Group Storytelling" />
         </div>
       </section>
 
       <section className="two-column">
         <div className="image">
-          <img src="/assets/img/language6.jpeg" alt="Phonics Activity" />
+          <img src="/assets/img/lngg6.jpeg" alt="Phonics Activity" />
         </div>
         <div className="content">
-          <h1>Phonics and Word Games</h1>
-          <h2>3–5 Years</h2>
+          <h1>Role-Play Post Office</h1>
+          <h5>3–5 Years</h5>
           <p>
-            • Description: Children match letters to sounds using songs, games,
-            and tactile letter cards. <br /> • Creativity Fostered: Strengthens
-            reading readiness and phonemic awareness. <br /> • Theory Link: Uses
-            multisensory learning to enhance memory and engagement.
+            • Description: Children write, sort, and deliver pretend mail with
+            stamps and envelopes. <br />
+            • Creativity Fostered: Encourages emergent writing, representational
+            drawing, and functional language. <br />• Theory Link: Halliday’s
+            regulatory and representational functions are evident in purposeful
+            writing.
+          </p>
+          <h5>Interactive Story Building</h5>
+          <p>
+            • Description: Using Toontastic or Puppet Pals, children build
+            scenes, record voices, and animate stories. <br />
+            • Creativity Fostered: Combines oral language, digital literacy, and
+            collaborative narrative design. <br />• Theory Link: Merges social
+            interaction (Vygotsky) with symbolic transformation and imaginative
+            function (Halliday).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
@@ -162,19 +182,29 @@ export default function Language() {
 
       <section className="two-column">
         <div className="content">
-          <h1>Digital Story Creation</h1>
-          <h2>6–8 Years</h2>
+          <h1>Comic Strip Creation</h1>
+          <h6>6–8 Years</h6>
           <p>
-            • Description: Children use apps to write, illustrate, and narrate
-            their own digital books. <br /> • Creativity Fostered: Encourages
-            authorship, design skills, and storytelling. <br /> • Theory Link:
-            Merges language skills with technology for modern literacy.
+            • Description: Children create their own comics using drawing or
+            Pixton app, combining images with dialogue. <br /> • Creativity
+            Fostered: Integrates visual design, character development, humor,
+            and writing structure. <br /> • Theory Link: Supports metalinguistic
+            awareness and expressive storytelling (Seon-Mi & Kellogg, 2022).
           </p>
+          <h5>Story Dice Writing Challenge</h5>
+          <p>
+            • Description: Rolling pictorial dice prompts children to invent,
+            write, and share unique stories. <br /> • Creativity Fostered: Encourages
+            divergent thinking and original narrative construction. <br /> • Theory
+            Link: Blends imaginative and heuristic functions of language
+            (Halliday, 1975).
+          </p>
+
           <button className="cta-btn">Learn More</button>
         </div>
 
         <div className="image">
-          <img src="/assets/img/language7.jpeg" alt="Digital Story Creation" />
+          <img src="/assets/img/lngg7.jpeg" alt="Digital Story Creation" />
         </div>
       </section>
     </div>
