@@ -1,10 +1,10 @@
 import React from "react";
-import "./References.css";
+import "./HeartReferences.css";
 
 export default function References() {
   const references = [
     {
-      title: "Minton, Balch & Company",
+      title: "Early Childhood STEAM Framework",
       author: "Ramesh, 2025",
       link: "#",
       note: "Overview of integrated STEAM practices for young learners."
