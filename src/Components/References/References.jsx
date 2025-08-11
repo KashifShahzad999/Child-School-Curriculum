@@ -147,7 +147,7 @@ export default function HeartReferences() {
           ))}
         </section>
 
-        <aside className="side-box">
+        {/* <aside className="side-box">
           <h2>How to cite</h2>
           <p>
             Use the author-year format and link back to the original resource.
@@ -159,7 +159,7 @@ export default function HeartReferences() {
             <span className="thanks-heart" aria-hidden="true" />
             <p>With ❤️ — your curriculum team</p>
           </div>
-        </aside>
+        </aside> */}
       </main>
 
       <footer className="hr-footer">

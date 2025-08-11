@@ -208,6 +208,29 @@ export default function Science() {
           />
         </div>
       </section>
+
+<section className="video-section" style={{ display: "flex", justifyContent: "center", gap: "20px", padding: "20px 0" }}>
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/video7.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/video2.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+</section>
+
     </div>
   );
 }

@@ -190,6 +190,29 @@ export default function Engineering() {
           <img src="/assets/img/eng7.jpeg" alt="Child robotics project" />
         </div>
       </section>
+
+<section className="video-section" style={{ display: "flex", justifyContent: "center", gap: "20px", padding: "20px 0" }}>
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/video9.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/video10.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+</section>
+
     </div>
   );
 }

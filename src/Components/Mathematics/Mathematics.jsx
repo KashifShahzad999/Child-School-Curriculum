@@ -205,9 +205,32 @@ export default function Mathematics() {
           <button className="cta-btn">Learn More</button>
         </div>
         <div className="image">
-          <img src="/assets/img/math5.jpeg" alt="Child solving math puzzle" />
+          <img src="/assets/img/math5.png" alt="Child solving math puzzle" />
         </div>
       </section>
+
+
+      <section className="video-section" style={{ display: "flex", justifyContent: "center", gap: "20px", padding: "20px 0" }}>
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/vedio12.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+
+  <video
+    width="320"
+    height="240"
+    controls
+    src="/assets/img/vedio13.mp4"
+    type="video/mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+</section>
     </div>
   );
 }
