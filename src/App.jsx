@@ -12,6 +12,7 @@ import Drama from "./Components/Drama/Drama";
 import Music from "./Components/Movement & Music/Music";
 import Language from "./Components/Language and Literacy/Language";
 import Science from "./Components/Science/Science";
+import Engineering from "./Components/Engineering/Engineering";
 function App() {
   return (
     <>
@@ -23,6 +24,7 @@ function App() {
  <Music/>
  <Language/>
  <Science/>
+ <Engineering/>
     </>
   );
 }
