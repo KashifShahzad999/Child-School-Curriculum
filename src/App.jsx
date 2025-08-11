@@ -13,6 +13,7 @@ import Music from "./Components/Movement & Music/Music";
 import Language from "./Components/Language and Literacy/Language";
 import Science from "./Components/Science/Science";
 import Engineering from "./Components/Engineering/Engineering";
+import Technologies from "./Components/Technologies/Technologies";
 function App() {
   return (
     <>
@@ -25,6 +26,7 @@ function App() {
  <Language/>
  <Science/>
  <Engineering/>
+ <Technologies/>
     </>
   );
 }
