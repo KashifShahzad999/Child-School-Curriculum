@@ -1,5 +1,5 @@
 import React from "react";
-import "./HeartReferences.css";
+import "./References.css";
 
 export default function References() {
   const references = [
