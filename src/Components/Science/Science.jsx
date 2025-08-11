@@ -236,7 +236,7 @@ export default function Science() {
   position: 'fixed',
   bottom: '10px',
   right: '10px',
-  textAlign: 'right',
+  textAlign: 'left',
   fontWeight: 'bold',
   backgroundColor: 'rgba(255,255,255,0.7)', // optional translucent background
   padding: '6px 10px',
