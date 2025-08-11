@@ -183,3 +183,49 @@
   .hero-heart{ display:none; }
   .side-box{ position:relative; }
 }
+
+.ref-card {
+  display: flex;
+  align-items: flex-start; /* or center depending on vertical alignment you want */
+  gap: 16px; /* spacing between left and right */
+  padding: 12px;
+  border: 1px solid #ccc; /* optional for clarity */
+  margin-bottom: 16px;
+  background: white;
+  border-radius: 6px;
+}
+
+/* Left part fixed width, like an icon or small block */
+.ref-card-left {
+  flex: 0 0 40px; /* fixed width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Right part takes remaining width */
+.ref-card-body {
+  flex: 1;
+}
+.ref-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-bottom: 16px;
+  background: white;
+  border-radius: 6px;
+}
+
+.ref-card-left {
+  flex: 0 0 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ref-card-body {
+  flex: 1;
+}
+
