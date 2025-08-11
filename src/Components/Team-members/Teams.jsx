@@ -5,7 +5,7 @@ const Teams = () => {
   const teamMembers = [
     {
       id: 1,
-      imgSrc: "/assets/img/ceo3.png",
+      imgSrc: "/assets/img/CEO-JS.png",
       name: "Jamal Sadiq",
       role: "CEO & Founder",
       delay: 0.1,
@@ -19,7 +19,7 @@ const Teams = () => {
     },
     {
       id: 3,
-      imgSrc: "/assets/img/wari2.png",
+      imgSrc: "/assets/img/HR-WH.png",
       name: "Waqar UL Hassan",
       role: "HR",
       delay: 0.5,

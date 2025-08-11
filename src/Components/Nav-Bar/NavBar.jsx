@@ -1,57 +1,43 @@
-import Container from "react-bootstrap/Container";
-import Nav from "react-bootstrap/Nav";
-import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown"; // Needed for dropdowns
-import "../../../src/style.css";
-const NavBar = () => {
+import React, { useState } from "react";
+import "./Navbar.css"; // we'll add styles next
+
+const Navbar = () => {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+
   return (
-    <Navbar expand="lg" className="bg-body-tertiary ">
-      <>
-        <a href="#home">
-          <img className="pl-0" src="/assets/img/alShaheen-logo3-removebg-preview.png " alt="" />
-        </a>
+    <nav className="navbar">
+      <div className="logo">Green Valley School</div>
+      <div className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>
+        ☰
+      </div>
+      <ul className={`nav-links ${menuOpen ? "show" : ""}`}>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
 
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto">
-          <NavDropdown   className="nav-dropdown-custom" title="Services" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Aluminium Window</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-              Doors Works
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Frameless Glass Doors</NavDropdown.Item>
-              {/* <NavDropdown.Divider /> */}
-              <NavDropdown.Item href="#action/3.4">
-              Partition Works
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.4">
-              Curtain Wall
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Aluminium Works
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Aluminium Shower Enclosure Works
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Aluminium Wood Pergolas
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Aluminum Composite Panel Cladding
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Stainless Steel
-              </NavDropdown.Item><NavDropdown.Item href="#action/3.4">
-              Electroplating Stainless Steel Work
-              </NavDropdown.Item>
-            </NavDropdown>
-            <Nav.Link className="nav-custom" href="#home">
-              Home
-            </Nav.Link>
-            <Nav.Link href="#link" className="nav-custom">
-              About Us
-            </Nav.Link>
+        <li
+          className="dropdown"
+          onMouseEnter={() => setDropdownOpen(true)}
+          onMouseLeave={() => setDropdownOpen(false)}
+        >
+          <a href="#">
+            Departments ▼
+          </a>
+          {dropdownOpen && (
+            <div className="dropdown-content">
+              <a href="#">Science</a>
+              <a href="#">Mathematics</a>
+              <a href="#">Arts</a>
+              <a href="#">Sports</a>
+            </div>
+          )}
+        </li>
 
-          </Nav>
-        </Navbar.Collapse>
-      </>
-    </Navbar>
+        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
   );
 };
 
-export default NavBar;
+export default Navbar;

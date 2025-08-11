@@ -1,0 +1,59 @@
+.two-column {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  gap: 20px;
+}
+
+.content {
+  flex: 1;
+}
+
+.content h1 {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+.content p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.cta-btn {
+  background-color: #004080;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cta-btn:hover {
+  background-color: #003366;
+}
+
+.image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Mobile view */
+@media (max-width: 768px) {
+  .two-column {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .image {
+    margin-top: 20px;
+  }
+}

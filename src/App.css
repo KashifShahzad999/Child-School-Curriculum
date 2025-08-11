@@ -57,3 +57,14 @@
   .team-item:hover .team-text div {
     margin-left: 30px;
   }
+  .nav-custom {
+    text-decoration: none; 
+   margin-top: 3px;
+   padding: 6px
+  }
+  .Dropdown{
+    text-decoration: none;
+    min-width: 18rem !important;
+  }
+
+  
