@@ -214,7 +214,7 @@ export default function Science() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video7.mp4"
+    src="/assets/img/water1.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.
@@ -224,7 +224,7 @@ export default function Science() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video2.mp4"
+    src="/assets/img/water2.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.

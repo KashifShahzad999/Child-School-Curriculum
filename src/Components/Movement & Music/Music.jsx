@@ -232,7 +232,7 @@ export default function Music() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video3.mp4"
+    src="/assets/img/vedio3.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.
@@ -242,7 +242,7 @@ export default function Music() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video4.mp4"
+    src="/assets/img/vedio4.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.

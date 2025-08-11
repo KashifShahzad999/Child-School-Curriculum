@@ -196,7 +196,7 @@ export default function Engineering() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video9.mp4"
+    src="/assets/img/vedio9.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.
@@ -206,7 +206,7 @@ export default function Engineering() {
     width="320"
     height="240"
     controls
-    src="/assets/img/video10.mp4"
+    src="/assets/img/vedio10.mp4"
     type="video/mp4"
   >
     Your browser does not support the video tag.
