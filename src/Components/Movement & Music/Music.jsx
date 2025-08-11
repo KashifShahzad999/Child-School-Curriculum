@@ -140,15 +140,33 @@ export default function Music() {
           <p>
             • Description: Children march around with instruments, following a
             teacher-led beat, then create their own rhythms. <br /> • Creativity
-            Fostered: Encourages self-expression and sound experimentation. <br /> •
-            Theory Link: Aligns with kinesthetic learning principles in multiple
-            intelligences theory (Gardner, 1983).
+            Fostered: Encourages self-expression and sound experimentation.{" "}
+            <br /> • Theory Link: Aligns with kinesthetic learning principles in
+            multiple intelligences theory (Gardner, 1983).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
 
         <div className="image">
           <img src="/assets/img/music7.jpeg" alt="Children Playing Music" />
+        </div>
+      </section>
+
+      <section className="two-column">
+        <div className="image">
+          <img src="/assets/img/dance8.jpeg" alt="Children Playing Music" />
+        </div>
+        <div className="content">
+          <h1>Freeze Dance with Emotion Prompts</h1>
+          <h2>3–5 Years</h2>
+          <p>
+            • Description: Children dance to different types of music and freeze
+            in a pose that matches a given emotion (e.g., “happy,” “angry”). <br /> •
+            Creativity Fostered: Builds emotional intelligence and expressive
+            movement vocabulary. <br /> • Theory Link: Brain-based learning shows
+            improved emotional regulation through music (Harper, 2024).
+          </p>
+          <button className="cta-btn">Learn More</button>
         </div>
       </section>
     </div>
