@@ -14,6 +14,9 @@ import Language from "./Components/Language and Literacy/Language";
 import Science from "./Components/Science/Science";
 import Engineering from "./Components/Engineering/Engineering";
 import Technologies from "./Components/Technologies/Technologies";
+import Mathematics from "./Components/Mathematics/Mathematics";
+import Humanities from "./Components/Humanities/Humanities";
+import Curriculum from "./Components/Curriculum/Curriculum";
 function App() {
   return (
     <>
@@ -27,6 +30,9 @@ function App() {
  <Science/>
  <Engineering/>
  <Technologies/>
+ <Mathematics/>
+ <Humanities/>
+ <Curriculum/>
     </>
   );
 }

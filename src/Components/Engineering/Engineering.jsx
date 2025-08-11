@@ -168,7 +168,7 @@ export default function Engineering() {
       <section className="two-column">
         <div className="content">
           <h1>6–8 Years: Advanced Engineering Projects</h1>
-          <h5>1. TinkerCAD House Project</h5>
+          <h5>1. Tinker CAD House Project</h5>
           <p>
             • Description: Children digitally design a simple house or
             playground using TinkerCAD. <br /> • Creativity Fostered: Applies 3D
