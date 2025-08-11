@@ -43,14 +43,14 @@ export default function Home() {
 
         {/* Right side - Image */}
         <div className="image">
-          <img src="./public/assets/img/download.jpeg" alt="School Building" />
+          <img src="/assets/img/download.jpeg" alt="School Building" />
         </div>
       </section>
 
       <section className="two-column">
         {/* Left side - Content */}
         <div className="image">
-          <img src="./public/assets/img/IMG_0839-scaled.webp" alt="School Building" />
+          <img src="/assets/img/IMG_0839-scaled.webp" alt="School Building" />
         </div>
 
         {/* Right side - Image */}
