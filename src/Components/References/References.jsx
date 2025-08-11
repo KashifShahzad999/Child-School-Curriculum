@@ -37,47 +37,79 @@ export default function HeartReferences() {
       note: "Halliday, M.A.K. (1975) Learning How to Mean: Explorations in the Development of Language. Edward Arnold",
     },
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Harper, N.B. (2024) How principles of brain based learning are used in Title I high schools and its effect if any on student growth. search.proquest.com. Available at: https://search.proquest.com",
     },
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Howard, R., & Mayesky, M. (2022). Creative Activities and Curriculum for Young Children (12th ed.). Cengage Learning. au.cengage.com",
     },
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Hutagalung, F., Lai, L., & Adams, D. (2020). Effects of dramatic play on vocabulary learning among preschoolers in Kuala Lumpur. Journal of Nusantara Studies, 5(1), 294–314. https://doi.org/10.24200/jonus.vol5iss1pp294-314 journal.unisza.edu.my",
     },
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Imsallim, R., Abouhajar, N. and Imsallim, W. (2025) ‘Integrating the 5E instructional model with Vygotsky’s sociocultural theory’, Bani Waleed University Journal of Human and Applied Sciences. Available at: https://jhas-bwu.com",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Kellogg, D. and Li, F. (2021) ‘When three fives are thirty-five: Vygotsky in a Hallidayan idiom’, Early Years. Taylor & Francis.",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Lantolf, J.P., Xi, J. and Minakova, V. (2021) ‘Sociocultural theory and concept-based language instruction’, Language Teaching. C",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Liu, C.Y., Wu, C.J., Chien, Y.H., Tzeng, S.Y. and Lee, M.Y. (2023) ‘Examining the quality of art in STEAM learning activities’, Psychology of Aesthetics, Creativity, and the Arts. Available at: https://psycnet.apa.org",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Marsh, J. (2010) ‘Young children’s play in online virtual worlds’, Journal of Early Childhood Research, 8(1), pp. 23–39.",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Oh, M.Y. and Kim, N.G. (2021) ‘An analysis of example spaces constructed by students in learning the area of a trapezoid based on Dienes’ theory of learning mathematics’, Education of Primary School Mathematics. Available at: https://www.koreascience.kr",
     },
 
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Parajuli, D.R. (2023) Becoming a STEAM-based science educator: Intersecting science teacher identity and existing pedagogical practice in Nepal. Available at: https://elibrary.ku.edu.np",
     },
 
+{
+      note: "Piaget, J. (1951). Play, Dreams and Imitation in Childhood. London: Routledge & Kegan Paul.",
+    },
+{
+      note: "Piaget, J. (1952). The Origins of Intelligence in Children. International Universities Press",
+    },
+{
+      note: "Ramesh, M.R. (2025) ‘Promoting lifelong learning skills through STEAM: Integrative approaches for a dynamic future’, in Pathways to STEAM Integration in Modern Education. IGI Global. Available at: https://www.igi-global.com",
+    },
     {
-      note: "Han, M., Moore, V., Vukelich, C., & Buell, M. J. (2010). Does Play Make a Difference?: How play intervention affects the vocabulary learning of at-risk preschoolers. American Journal of Play, 3(1), 83–99. researchgate.net",
+      note: "Retno, R.S., Purnomo, P., Hidayat, A. and Rahmawati, S. (2025) ‘Conceptual framework design for STEM-integrated project-based learning (PjBL-STEM) for elementary schools’, Asian Education and Development Studies. Available at: https://www.emerald.com",
     },
-
-
+    {
+      note: "Reddy, K.J., Hunjan, U. and Jha, P. (2021) ‘Brain-based learning method: Opportunities and challenges’, in Applications in Learning. Springer. Available at: https://link.springer.com",
+    },
+    {
+      note: "Seon-Mi, S. and Kellogg, D. (2022) ‘Un-naming names: Using Vygotsky's language games and Halliday's grammar’, Early Years. Taylor & Francis.",
+    },
+    {
+      note: "Thyssen, C. et al. (2023) ‘From TPACK to DPACK: The “Digitality-related pedagogical and content knowledge” model in STEM-education’, Education Sciences. Available at: https://www.mdpi.com",
+    },
+    {
+      note: "Tombak, A. (2014). The importance of drama in pre-school education. Procedia – Social and Behavioral Sciences, 143, 372–378. s3-ap-southeast-1.amazonaws.com",
+    },
+    {
+      note: "Tseng, J.J. et al. (2022) ‘A critical review of research on TPACK in language teaching’, Computer Assisted Language Learning. Taylor & Francis. Available at: https://www.tandfonline.com",
+    },
+    {
+      note: "Vanderburg, R. and Trotter, P. (2021) ‘How constructivist theories of development can be used to re-conceptualise NAPLAN as an opportunity to develop student resilience’, Australian Journal of Teacher Education. Available at: https://search.informit.org",
+    },
+    {
+      note: "Voon, X.P., Wong, S.L. and Wong, L.H. (2022) ‘Developing computational thinking competencies through constructivist argumentation learning: A problem-solving perspective’, International Journal of Science and Mathematics Education. Available at: https://repository.nie.edu.sg",
+    },
+    {
+      note: "Vygotsky, L. S. (1978). Mind in Society: The Development of Higher Psychological Processes. Harvard University Press.",
+    },
+ 
 
 
     // add more references as needed
