@@ -120,11 +120,11 @@ export default function HeartReferences() {
       <div className="hero">
         <div className="hero-inner">
           <div className="hero-heart" aria-hidden="true" />
-          <h1 className="hero-title">References & Credits</h1>
-          <p className="hero-sub">
+          <h1 className="hero-title">References</h1>
+          {/* <p className="hero-sub">
             A small library of sources and inspirations used across this site.
             Thank you to all authors, educators and contributors.
-          </p>
+          </p> */}
         </div>
       </div>
 
@@ -162,12 +162,12 @@ export default function HeartReferences() {
         </aside> */}
       </main>
 
-      <footer className="hr-footer">
+      {/* <footer className="hr-footer">
         <p>
           Want to add a reference? Email{" "}
           <a href="mailto:you@example.com">you@example.com</a>
         </p>
-      </footer>
+      </footer> */}
     </div>
   );
 }
