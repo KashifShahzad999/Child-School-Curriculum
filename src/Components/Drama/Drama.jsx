@@ -77,7 +77,7 @@ export default function Drama() {
             and cognitive growth through engaging, scaffolded, and
             developmentally appropriate experiences.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

@@ -24,7 +24,7 @@ export default function Engineering() {
             constructivist and problem-solving models enhance computational
             thinking and creative logic from the early years.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -56,7 +56,7 @@ export default function Engineering() {
             collaborate, troubleshoot, and persist through setbacks—hallmarks of
             creative engineering practice
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -80,7 +80,7 @@ export default function Engineering() {
             Cat in the Hat Builds That) <br /> • Virtual mlalrblle run
             simulators
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -112,7 +112,7 @@ export default function Engineering() {
             Enhances spatial reasoning and symbolic understanding of enclosure
             and passage.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -133,7 +133,7 @@ export default function Engineering() {
             move small items up/down. <br /> • Creativity Fostered: Introduces
             mechanical thinking and sequential planning
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -161,7 +161,7 @@ export default function Engineering() {
             gadgets (safely). <br /> • Creativity Fostered: Develops spatial and
             mechanical intelligence.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -183,7 +183,7 @@ export default function Engineering() {
             Integrates creative storytelling with mechanical logic and
             collaborative problem-solving.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

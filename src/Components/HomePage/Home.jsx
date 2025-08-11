@@ -38,7 +38,7 @@ export default function Home() {
             practices from the earliest ages establishes a foundation for
             lifelong learning (Robinson, 2011).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         {/* Right side - Image */}
@@ -93,7 +93,7 @@ export default function Home() {
             equip them to be independent, critical and collaborative learners.
             Note : Need high definition images to Make page attractive
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 

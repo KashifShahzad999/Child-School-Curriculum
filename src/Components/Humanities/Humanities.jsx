@@ -24,7 +24,7 @@ export default function Humanities() {
             theory situates learning as a collaborative process shaped by
             culture and interaction (Lantolf, Xi & Minakova, 2021).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -53,7 +53,7 @@ export default function Humanities() {
             civic engagement, especially when grounded in real-world issues and
             social narratives.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -73,7 +73,7 @@ export default function Humanities() {
             apps (e.g., My Story, ChatterPix) <br /> • Translation and
             speech-to-text tools for multilingual learning
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -100,7 +100,7 @@ export default function Humanities() {
             explore global rhythms. <br />• Creativity Fostered: Encourages
             cultural appreciation and shared expression.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -120,7 +120,7 @@ export default function Humanities() {
             <br />• Theory Link: Builds place-awareness and belonging (Bahtiar
             et al., 2024).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -150,7 +150,7 @@ export default function Humanities() {
             cultural celebrations. <br />• Creativity Fostered: Encourages open
             discussion and appreciation of diversity.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -170,7 +170,7 @@ export default function Humanities() {
             autobiographies with pictures, voice, and text. <br />• Creativity
             Fostered: Promotes self-reflection and personal narrative.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

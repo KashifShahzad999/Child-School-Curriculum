@@ -26,7 +26,7 @@ export default function Curriculum() {
             fosters deeper engagement through play-based design thinking,
             supporting intellectual, emotional, and physical development.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -59,7 +59,7 @@ export default function Curriculum() {
             Collaboration. Integrated curricula cultivate these skills through
             maker-centred pedagogy, inquiry, and teamwork (Ramesh, 2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -83,7 +83,7 @@ export default function Curriculum() {
             Speech-generating apps for learners with communication needs <br />{" "}
             • Color-coded instruction cards
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -116,7 +116,7 @@ export default function Curriculum() {
             and cause-effect logic. <br /> • Integration: Music, Science,
             Technology (sound creation).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -138,7 +138,7 @@ export default function Curriculum() {
             science inquiry. <br /> • Integration: Reading, Engineering,
             Science, Arts.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -173,7 +173,7 @@ export default function Curriculum() {
             science inquiry. <br /> • Integration: Reading, Engineering,
             Science, Arts.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -195,7 +195,7 @@ export default function Curriculum() {
             narrative logic, and teamwork. <br />    • Integration: Literacy, Technology,
             Arts, Logic.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

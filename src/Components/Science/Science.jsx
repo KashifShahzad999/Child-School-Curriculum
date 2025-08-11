@@ -23,7 +23,7 @@ export default function Science() {
             imaginative thinking, preparing them to become resilient, flexible
             learners (Ramesh, 2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -55,7 +55,7 @@ export default function Science() {
             Learning (PjBL-STEM) also enhances collaborative learning and
             creativity in early settings (Retno et al., 2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -88,7 +88,7 @@ export default function Science() {
             microscopes for magnification and zoom <br />• Time-lapse tools for
             plant growth observation
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -120,7 +120,7 @@ export default function Science() {
             understanding of cause-effect. <br />• STEAM Link: Integrates
             science with aesthetic awareness (Liu et al., 2023).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -143,7 +143,7 @@ export default function Science() {
             early inquiry and physical science understanding (Retno et al.,
             2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -174,7 +174,7 @@ export default function Science() {
             • Theory Link: Fosters active construction of scientific tools
             (Bruner, 1961; Ramesh, 2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -198,7 +198,7 @@ export default function Science() {
             Builds longitudinal thinking and digital documentation skills (Retno
             et al., 2025).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

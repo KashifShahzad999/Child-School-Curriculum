@@ -22,7 +22,7 @@ export default function Music() {
             movement supports creative expression while also promoting gross
             motor coordination, body awareness, and collaborative learning
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -50,7 +50,7 @@ export default function Music() {
             movement and physical interaction with their environment (Gardner,
             1983).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -71,7 +71,7 @@ export default function Music() {
             movement sequences <br /> • GoNoodle or Just Dance Kids for
             structured movement
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -93,7 +93,7 @@ export default function Music() {
             movement. <br /> • Theory Link: <br /> Supports brain development
             through sensory-motor integration (Harper, 2024).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -108,7 +108,7 @@ export default function Music() {
             visual-motor coordination. <br /> • Theory Link: Engages visual
             tracking and limbic response via musical cues (Davis Jr, 2023).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -130,7 +130,7 @@ export default function Music() {
             • Theory Link: Movement activities tied to auditory stimuli enhance
             working memory (Reddy, Hunjan & Jha, 2021).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -144,7 +144,7 @@ export default function Music() {
             <br /> • Theory Link: Aligns with kinesthetic learning principles in
             multiple intelligences theory (Gardner, 1983).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -167,7 +167,7 @@ export default function Music() {
             learning shows improved emotional regulation through music (Harper,
             2024).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -182,7 +182,7 @@ export default function Music() {
             integration supports multimodal learning pathways (Reddy, Hunjan &
             Jha, 2021).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -205,7 +205,7 @@ export default function Music() {
             intelligence with digital competence (Gardner, 1983; Davis Jr,
             2023).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -220,7 +220,7 @@ export default function Music() {
             states and cooperative creativity (Csikszentmihalyi, 1997; Harper,
             2024).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

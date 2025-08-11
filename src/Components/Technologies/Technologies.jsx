@@ -27,7 +27,7 @@ export default function Technologies() {
             personalization, and cross-disciplinary creativity when grounded in
             pedagogical frameworks.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -54,7 +54,7 @@ export default function Technologies() {
             digital tools are not add-ons but embedded within creative,
             content-rich experiences (Thyssen et al., 2023).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -73,7 +73,7 @@ export default function Technologies() {
             storytelling and imaginative backgrounds <br /> • WebQuests and digital
             scavenger hunts
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -102,7 +102,7 @@ export default function Technologies() {
             cameras. <br /> • Creativity Fostered: Enhances self-awareness and
             early communication.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -121,7 +121,7 @@ export default function Technologies() {
             actions. <br /> • Creativity Fostered: Builds narrative fluency and
             self-expression.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -149,7 +149,7 @@ export default function Technologies() {
             superimpose imaginative settings. <br /> • Creativity Fostered:
             Fosters digital storytelling, visual literacy, and narrative design.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -171,7 +171,7 @@ export default function Technologies() {
             Promotes research, critical thinking, and cross-curricular
             connections
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

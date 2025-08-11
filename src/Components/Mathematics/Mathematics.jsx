@@ -23,7 +23,7 @@ export default function Mathematics() {
             situates mathematics within the child’s cognitive developmental
             stages (Bálint, 2024; Oh & Kim, 2021).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -59,7 +59,7 @@ export default function Mathematics() {
             manipulate their environment, make predictions, and resolve
             contradictions.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -88,7 +88,7 @@ export default function Mathematics() {
             <li>Digital manipulatives (e.g., virtual base ten blocks)</li>
             <li>Math journaling using tablets or drawing apps</li>
           </ul>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -121,7 +121,7 @@ export default function Mathematics() {
             Theory Link: Supports emerging schematic categorization (Piaget,
             1952).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -145,7 +145,7 @@ export default function Mathematics() {
             Creativity Fostered: Links real-life routines with numerical
             language.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
         <div className="image">
           <img src="/assets/img/math5.png" alt="Kids doing math activities" />
@@ -177,7 +177,7 @@ export default function Mathematics() {
             symmetrical or patterned artworks. <br />
             Creativity Fostered: Blends aesthetics with geometric reasoning.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -202,7 +202,7 @@ export default function Mathematics() {
             Creativity Fostered: Combines narrative thinking with numeracy
             logic.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
         <div className="image">
           <img src="/assets/img/math5.png" alt="Child solving math puzzle" />

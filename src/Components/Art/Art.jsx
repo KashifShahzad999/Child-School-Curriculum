@@ -65,7 +65,7 @@ export default function Art() {
             and invite them to stretch other intelligences, creating a richer,
             more inclusive creative environment (Gardner, 1983).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         {/* Right - Image */}
@@ -97,7 +97,7 @@ export default function Art() {
             for later writing.
           </p>
 
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -122,7 +122,7 @@ export default function Art() {
             into online portfolios or slide shows.
           </p>
 
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -150,7 +150,7 @@ export default function Art() {
             celebrated, fostering ownership and pride.
           </p>
 
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -185,7 +185,7 @@ export default function Art() {
             skills).
           </p>
 
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">

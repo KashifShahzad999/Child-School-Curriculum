@@ -25,7 +25,7 @@ export default function Language() {
             promote curiosity, identity formation, and collaborative creativity
             from birth.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -56,7 +56,7 @@ export default function Language() {
             theories position language and literacy as interactive, purposeful,
             and deeply creative processes.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -88,7 +88,7 @@ export default function Language() {
             digital books. <br />• Speech-to-text tools: Empower non-writers to
             narrate creatively.
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -121,7 +121,7 @@ export default function Language() {
             sensory-rich communication. <br />• Theory Link: Supports Halliday’s
             instrumental and personal language functions (Kellogg & Li, 2021).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -144,7 +144,7 @@ export default function Language() {
             language use. <br />• Theory Link: ZPD interaction builds early
             literacy through guided sound play (Vygotsky, 1978).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
@@ -176,7 +176,7 @@ export default function Language() {
             interaction (Vygotsky) with symbolic transformation and imaginative
             function (Halliday).
           </p>
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
       </section>
 
@@ -200,7 +200,7 @@ export default function Language() {
             (Halliday, 1975).
           </p>
 
-          <button className="cta-btn">Learn More</button>
+          {/* <button className="cta-btn">Learn More</button> */}
         </div>
 
         <div className="image">
