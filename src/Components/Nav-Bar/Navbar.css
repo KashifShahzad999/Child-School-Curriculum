@@ -78,3 +78,44 @@
     display: block;
   }
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #374151; /* dark slate gray */
+}
+
+.logo-icon {
+  background: linear-gradient(135deg, #3b82f6, #10b981); /* blue-green gradient */
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 24px;
+  margin-right: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  color: white;
+}
+
+.logo-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1;
+   color: white;
+}
+
+.logo-subtitle {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1;
+   color: white;
+}
+
