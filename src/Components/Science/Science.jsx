@@ -127,43 +127,52 @@ export default function Science() {
       <section className="two-column">
         <div className="content">
           <h1>2–3 Years: Simple Experiments</h1>
-          <h5>1. Color Mixing</h5>
+          <h5> 1. Sink or Float Water Play</h5>
           <p>
-            • Description: Mixing colored water to explore new shades. <br />•
-            Creativity Fostered: Observation, prediction.
+            • Description: <br />
+            Children predict and test which objects sink or float in a water
+            tub. <br /> • Creativity Fostered: <br /> Introduces
+            hypothesis-making, observation, and vocabulary. <br /> • Theory
+            Link: Encourages early inductive reasoning (Bruner, 1961).
           </p>
-          <h5>2. Sink or Float</h5>
+          <h5>2. Magnet Treasure Hunt</h5>
           <p>
-            • Description: Testing objects in water to see if they sink or
-            float. <br />• Creativity Fostered: Hypothesis building, testing
-            ideas.
+            • Description: <br /> Using magnets to search for hidden metallic
+            items in sensory bins. <br /> • Creativity Fostered: Develops
+            classification and prediction skills. <br /> • STEM Link: Supports
+            early inquiry and physical science understanding (Retno et al.,
+            2025).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
 
         <div className="image">
-          <img
-            src="/assets/img/science5.jpeg"
-            alt="Young children experimenting"
-          />
+          <img src="/assets/img/sci5.jpeg" alt="Young children experimenting" />
         </div>
       </section>
 
       <section className="two-column">
         <div className="image">
-          <img src="/assets/img/science6.jpeg" alt="Plant growth experiment" />
+          <img src="/assets/img/sci6.jpeg" alt="Plant growth experiment" />
         </div>
         <div className="content">
           <h1>3–5 Years: Hands-on Investigations</h1>
-          <h5>1. Planting Seeds</h5>
+          <h5>1. Nature Walk and Science Table</h5>
           <p>
-            • Description: Observing plant growth over time. <br />• Creativity
-            Fostered: Patience, documentation, cause-effect.
+            • Description: Children collect natural objects and bring them back
+            for classification, drawing, or storytelling. <br /> • Creativity
+            Fostered: <br />
+            Connects scientific observation with expressive arts. <br /> • STEAM
+            Link: <br />
+            Encourages aesthetic appreciation of nature (Liu et al., 2023).
           </p>
-          <h5>2. Shadow Play</h5>
+          <h5>2. Mini Weather Station Project</h5>
           <p>
-            • Description: Using light sources to make and change shadows.{" "}
-            <br />• Creativity Fostered: Exploration of light, shape, and size.
+            • Description: Children create rain gauges, wind socks, and
+            thermometers using recycled materials. <br /> • Creativity Fostered:
+            Integrates design, measurement, and environmental awareness. <br />{" "}
+            • Theory Link: Fosters active construction of scientific tools
+            (Bruner, 1961; Ramesh, 2025).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
@@ -172,23 +181,29 @@ export default function Science() {
       <section className="two-column">
         <div className="content">
           <h1>6–8 Years: Advanced Projects</h1>
-          <h5>1. Simple Circuits</h5>
+          <h5>1. DIY Volcano or Baking Soda Rockets</h5>
           <p>
-            • Description: Building a basic circuit with batteries and bulbs.{" "}
-            <br />• Creativity Fostered: Understanding energy flow and design
-            thinking.
+            • Description: Children mix ingredients to observe chemical
+            reactions and discuss gas formation. <br /> • Creativity Fostered:
+            Enhances observation, prediction, and analytical discussion. <br />{" "}
+            • STEAM Link: <br />
+            Builds foundational chemistry knowledge through interactive play
+            (Parajuli, 2023).
           </p>
-          <h5>2. DIY Volcano</h5>
+          <h5>2. Time-Lapse Plant Growth Journal</h5>
           <p>
-            • Description: Creating a baking soda and vinegar eruption. <br />•
-            Creativity Fostered: Chemistry basics and dramatic demonstration.
+            • Description: Children plant seeds, take daily photos, record
+            height, and reflect on changes. <br /> • Creativity Fostered: Combines
+            digital literacy, observation, and narrative thinking. <br /> • STEM Link: 
+            Builds longitudinal thinking and digital documentation skills (Retno
+            et al., 2025).
           </p>
           <button className="cta-btn">Learn More</button>
         </div>
 
         <div className="image">
           <img
-            src="/assets/img/science7.jpeg"
+            src="/assets/img/sci7.jpeg"
             alt="Volcano science experiment"
           />
         </div>
